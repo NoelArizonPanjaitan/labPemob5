@@ -132,7 +132,7 @@ This project was built progressively across **8 teaching modules**:
 
 1. **Generate Release Keystore** (first time only)
    ```bash
-   keytool -genkey -v -keystore android/app/upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+   keytool -genkey -v -keystore android/app/ -keyalg RSA -keysize 2048 -validity 10000 -alias upload
    ```
 
 2. **Create `android/key.properties`**
