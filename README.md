@@ -63,14 +63,14 @@ This project was built progressively across **8 teaching modules**:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3d2fc70a-5c5c-406e-97be-6eb3f522b062" width="250"/><br/><b>Sign In</b></td>
-    <td><img src="https://github.com/user-attachments/assets/de6b3acc-dc88-4c53-903e-5f3d2304247c" width="250"/><br/><b>Sign Up</b></td>
-    <td><img src="https://github.com/user-attachments/assets/fbd975c2-5487-46ec-ad2a-6eba18f07ed5" width="250"/><br/><b>Home</b></td>
+    <td><img src="https://github.com/user-attachments/assets/b88edd35-2277-405c-a9b3-a14536707108" width="250"/><br/><b>Sign In</b></td>
+    <td><img src="https://github.com/user-attachments/assets/d0167438-dd3b-444c-8a74-cbea0e77aa51" width="250"/><br/><b>Sign Up</b></td>
+    <td><img src="https://github.com/user-attachments/assets/c614505f-0e28-4d2b-8dd3-681efc2dfdc9" width="250"/><br/><b>Home</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ec73d509-da1d-478f-9268-ede83f789eba" width="250"/><br/><b>Anime Detail</b></td>
-    <td><img src="https://github.com/user-attachments/assets/a8c1b730-ae2e-4df3-a333-73299766805f" width="250"/><br/><b>Favorites</b></td>
-    <td><img src="https://github.com/user-attachments/assets/af2ec15c-1d90-4ce3-a902-3a0ee1ff84dc" width="250"/><br/><b>Profile</b></td>
+    <td><img src="https://github.com/user-attachments/assets/0749b52e-97e1-45ab-b1ad-e6093453fa59" width="250"/><br/><b>Anime Detail</b></td>
+    <td><img src="https://github.com/user-attachments/assets/6ef2d8b7-9519-45b0-9033-99fe33fb7cb8" width="250"/><br/><b>Favorites</b></td>
+    <td><img src="https://github.com/user-attachments/assets/e1f39d0e-a0c2-41e1-8a92-f10803d1cdce" width="250"/><br/><b>Profile</b></td>
   </tr>
 </table>
 
